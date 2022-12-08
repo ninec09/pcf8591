@@ -1,0 +1,40 @@
+Dependencies for Project 'i2c', Target 'Target 1': (DO NOT MODIFY !)
+F (.\startup_stm32f40_41xxx.s)(0x532C396A)(--cpu Cortex-M4.fp -g --apcs=interwork -I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\ST\STM32F4xx--list .\startup_stm32f40_41xxx.lst --xref -o .\startup_stm32f40_41xxx.o --depend .\startup_stm32f40_41xxx.d)
+F (.\main.c)(0x6384AF42)(-c --cpu Cortex-M4.fp -g -O0 --apcs=interwork -I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\ST\STM32F4xx-DSTM32F40_41xxx-o .\main.o --omf_browse .\main.crf --depend .\main.d)
+I (C:\Keil\ARM\Inc\ST\STM32F4xx\stm32f4xx.h)(0x532C39AA)
+I (C:\Keil\ARM\CMSIS\Include\core_cm4.h)(0x532C3E12)
+I (C:\Keil\ARM\ARMCC\include\stdint.h)(0x51C80BA4)
+I (C:\Keil\ARM\CMSIS\Include\core_cmInstr.h)(0x532C3E12)
+I (C:\Keil\ARM\CMSIS\Include\core_cmFunc.h)(0x532C3E12)
+I (C:\Keil\ARM\CMSIS\Include\core_cm4_simd.h)(0x532C3E12)
+I (C:\Keil\ARM\Inc\ST\STM32F4xx\system_stm32f4xx.h)(0x532C39AA)
+I (I2C.h)(0x63774873)
+I (SysTickCounter.h)(0x63774873)
+F (C:\Keil\ARM\Boards\ST\STM32F4-Discovery\Blinky\system_stm32f4xx.c)(0x532C3BBC)(-c --cpu Cortex-M4.fp -g -O0 --apcs=interwork -I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\ST\STM32F4xx-DSTM32F40_41xxx-o .\system_stm32f4xx.o --omf_browse .\system_stm32f4xx.crf --depend .\system_stm32f4xx.d)
+I (C:\Keil\ARM\Inc\ST\STM32F4xx\stm32f4xx.h)(0x532C39AA)
+I (C:\Keil\ARM\CMSIS\Include\core_cm4.h)(0x532C3E12)
+I (C:\Keil\ARM\ARMCC\include\stdint.h)(0x51C80BA4)
+I (C:\Keil\ARM\CMSIS\Include\core_cmInstr.h)(0x532C3E12)
+I (C:\Keil\ARM\CMSIS\Include\core_cmFunc.h)(0x532C3E12)
+I (C:\Keil\ARM\CMSIS\Include\core_cm4_simd.h)(0x532C3E12)
+I (C:\Keil\ARM\Inc\ST\STM32F4xx\system_stm32f4xx.h)(0x532C39AA)
+F (.\I2C.c)(0x63773AB1)(-c --cpu Cortex-M4.fp -g -O0 --apcs=interwork -I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\ST\STM32F4xx-DSTM32F40_41xxx-o .\i2c.o --omf_browse .\i2c.crf --depend .\i2c.d)
+I (C:\Keil\ARM\Inc\ST\STM32F4xx\stm32f4xx.h)(0x532C39AA)
+I (C:\Keil\ARM\CMSIS\Include\core_cm4.h)(0x532C3E12)
+I (C:\Keil\ARM\ARMCC\include\stdint.h)(0x51C80BA4)
+I (C:\Keil\ARM\CMSIS\Include\core_cmInstr.h)(0x532C3E12)
+I (C:\Keil\ARM\CMSIS\Include\core_cmFunc.h)(0x532C3E12)
+I (C:\Keil\ARM\CMSIS\Include\core_cm4_simd.h)(0x532C3E12)
+I (C:\Keil\ARM\Inc\ST\STM32F4xx\system_stm32f4xx.h)(0x532C39AA)
+I (I2C.h)(0x63774873)
+I (C:\Keil\ARM\ARMCC\include\math.h)(0x51C80BA4)
+F (.\SysTickCounter.c)(0x637745F5)(-c --cpu Cortex-M4.fp -g -O0 --apcs=interwork -I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\ST\STM32F4xx-DSTM32F40_41xxx-o .\systickcounter.o --omf_browse .\systickcounter.crf --depend .\systickcounter.d)
+I (C:\Keil\ARM\Inc\ST\STM32F4xx\stm32f4xx.h)(0x532C39AA)
+I (C:\Keil\ARM\CMSIS\Include\core_cm4.h)(0x532C3E12)
+I (C:\Keil\ARM\ARMCC\include\stdint.h)(0x51C80BA4)
+I (C:\Keil\ARM\CMSIS\Include\core_cmInstr.h)(0x532C3E12)
+I (C:\Keil\ARM\CMSIS\Include\core_cmFunc.h)(0x532C3E12)
+I (C:\Keil\ARM\CMSIS\Include\core_cm4_simd.h)(0x532C3E12)
+I (C:\Keil\ARM\Inc\ST\STM32F4xx\system_stm32f4xx.h)(0x532C39AA)
+I (SysTickCounter.h)(0x63774873)
+I (I2C.h)(0x63774873)

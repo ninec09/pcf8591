@@ -1,0 +1,10 @@
+--cpu Cortex-M4.fp
+".\startup_stm32f40_41xxx.o"
+".\main.o"
+".\system_stm32f4xx.o"
+".\i2c.o"
+".\systickcounter.o"
+--strict --scatter ".\i2c.sct"
+--summary_stderr --info summarysizes --map --xref --callgraph --symbols
+--info sizes --info totals --info unused --info veneers
+--list ".\i2c.map" -o .\i2c.axf

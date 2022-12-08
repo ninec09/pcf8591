@@ -1,0 +1,10 @@
+.\systickcounter.o: SysTickCounter.c
+.\systickcounter.o: C:\Keil\ARM\Inc\ST\STM32F4xx\stm32f4xx.h
+.\systickcounter.o: C:\Keil\ARM\CMSIS\Include\core_cm4.h
+.\systickcounter.o: C:\Keil\ARM\ARMCC\bin\..\include\stdint.h
+.\systickcounter.o: C:\Keil\ARM\CMSIS\Include\core_cmInstr.h
+.\systickcounter.o: C:\Keil\ARM\CMSIS\Include\core_cmFunc.h
+.\systickcounter.o: C:\Keil\ARM\CMSIS\Include\core_cm4_simd.h
+.\systickcounter.o: C:\Keil\ARM\Inc\ST\STM32F4xx\system_stm32f4xx.h
+.\systickcounter.o: SysTickCounter.h
+.\systickcounter.o: I2C.h
